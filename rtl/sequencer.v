@@ -38,5 +38,6 @@ always @(*) begin
 end
 
 assign y=(state==s7)?1:0;
+//
 
 endmodule
